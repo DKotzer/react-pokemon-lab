@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.message {
+  text-align: center;
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-size: 25px;
+}
+
+.message #text {
+  text-align: center;
+}
